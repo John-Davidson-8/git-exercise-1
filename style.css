@@ -4,12 +4,15 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-.product-main {
+/* .product-main {
     display: flex;
     justify-content: center;
     gap: 2rem;
-}
+} */
 
+.product-main {
+    margin: auto;
+}
 .product-picture,
 .product-details {
     width: 50%;
